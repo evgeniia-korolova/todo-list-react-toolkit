@@ -1,0 +1,21 @@
+.TodoList {
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.TodoList .inputPanel button {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.btns {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0;
+}
+
+.TasksList {
+    margin: 0 auto;
+}
